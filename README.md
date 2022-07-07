@@ -5,11 +5,12 @@ I'm currently a 4nd-year Electrical student at Delhi Technological University. I
 
 
 ## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tusharknwl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tusharknwl&theme=dark&hide_border=false)<br/>
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharknwl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Material Bread logo">
 </p>
-![](https://github-readme-stats.vercel.app/api?username=Tusharknwl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tusharknwl&theme=dark&hide_border=false)<br/>
+
 
 
 ## 💻 Tech Stack:
