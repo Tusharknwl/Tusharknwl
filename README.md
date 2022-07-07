@@ -1,4 +1,6 @@
-![](https://github.com/Tusharknwl/Tusharknwl/blob/master/Screenshot%20(437).png?raw=true)
+![](https://www.cityofpaloalto.org/files/assets/public/community-services/public-art-program/codeart-banner_2000.png?w=2000&h=600)
+                                                          #Hello World! 👋, I;m Tushar
+                                                          
 I'm currently a 4nd-year Electrical student at Delhi Technological University. I'm a Front-end Web Developer having good knowledge of HTML, CSS, JavaScript, and React JS. I also have good knowledge of C++ and have been doing competitive programming for the last 8 months on CodeChef ( 3star ) and Hackerrank.<br>Whenever I have free time, I love watching sci-fi movies and anime, and I love listening to music.
 
 
