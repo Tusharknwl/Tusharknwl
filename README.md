@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello World! 👋, I'm Tushar</h1>
 <img src="https://raw.githubusercontent.com/Tusharknwl/Tusharknwl/64c0b2b2c8e9f46b838c0caeb7473951c6278a9d/designer.svg?compress=1&resize=320x240&vertical=top" width="250" align="right">                                                         
-I'm currently a 4nd-year Electrical student at Delhi Technological University. I'm a Front-end Web Developer having good knowledge of HTML, CSS, JavaScript, and React JS. I also have good knowledge of C++ and have been doing competitive programming for the last 8 months onLeetcode, GFG, CodeChef ( 3star ) and Hackerrank.<br>Whenever I have free time, I love watching sci-fi movies and anime, and I love listening to music.
+</br><h6>I'm currently a 4nd-year Electrical student at Delhi Technological University. I'm a Front-end Web Developer having good knowledge of HTML, CSS, JavaScript, and React JS. I also have good knowledge of C++ and have been doing competitive programming for the last 8 months onLeetcode, GFG, CodeChef ( 3star ) and Hackerrank.<br>Whenever I have free time, I love watching sci-fi movies and anime, and I love listening to music.</h6>
 
 
 
