@@ -1,4 +1,4 @@
-![](https://www.cityofpaloalto.org/files/assets/public/community-services/public-art-program/codeart-banner_2000.png?w=2000&h=600)
+![](https://github.com/Tusharknwl/Tusharknwl/blob/master/gitprofile.png?raw=true?w=2000&h=600)
 
 <h1 align="center">Hello World! 👋, I'm Tushar</h1>
 <img src="https://raw.githubusercontent.com/Tusharknwl/Tusharknwl/64c0b2b2c8e9f46b838c0caeb7473951c6278a9d/designer.svg?compress=1&resize=320x240&vertical=top" width="250" align="right">                                                         
