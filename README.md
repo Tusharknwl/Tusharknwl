@@ -52,6 +52,8 @@
   <img src="https://visitcount.itsvg.in/api?id=Tusharknwl&icon=0&color=0" alt="Visitor Count">
 </div>
 
+[![An image of @tusharknwl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharknwl)](https://holopin.io/@tusharknwl)
+
 <h3 align="center">Connect with Me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/tushar-khanagwal" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
