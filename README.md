@@ -36,6 +36,9 @@
 <h3 align="center">GitHub Stats</h3>
 <table align="center">
   <tr>
+     <td>
+       <img height=195px src="https://github-readme-stats.vercel.app/api?username=Tusharknwl&theme=shades-of-purple&show_icons=true" />
+     </td>
     <td>
         <img height=210px src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharknwl&theme=dark&hide_border=false"/>
     </td>
@@ -44,9 +47,6 @@
     </td>
   </tr>
 </table>
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Tusharknwl&icon=0&color=0" alt="Visitor Count">
-</div>
 
 [![An image of @tusharknwl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharknwl)](https://holopin.io/@tusharknwl)
 
