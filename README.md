@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello, I'm Tushar</h1>
-<p align="center">B.Tech graduate from Delhi Technological University | Front-end Web Developer | Competitive Programmer</p>
+<p align="center">Software Engineer @Navrik Software | Graduate from Delhi Technological University | Web Developer | Competitive Programmer</p>
 
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">About Me</h3>
-<p align="center">I'm a highly motivated and detail-oriented developer with a passion for creating elegant and responsive web applications. With a strong foundation in HTML, CSS, and JavaScript, along with proficiency in React, I'm dedicated to delivering exceptional user experiences.</p>
+<p align="center">Hi there! I'm a passionate Software Engineer skilled in building responsive and scalable web applications using React, Node.js, and MS SQL. I love turning ideas into user-friendly experiences and continuously exploring new technologies to grow as a developer.</p>
 
 
 <h3 align="center">Tech Stack</h3>
@@ -31,8 +31,7 @@
 
 
 <h3 align="center">Interests</h3>
-<p align="center">In my free time, I enjoy watching sci-fi movies, anime, and listening to music. I also love tackling challenging problems on platforms like LeetCode, CodeChef (3-star), and HackerRank.</p>
-
+<p align="center">When I'm not coding, I enjoy building side projects, diving into sci-fi movies, binge-watching anime, or exploring new music. I also love sharpening my problem-solving skills on LeetCode, CodeChef (3-star), and HackerRank.</p>
 
 <h3 align="center">GitHub Stats</h3>
 <table align="center">
