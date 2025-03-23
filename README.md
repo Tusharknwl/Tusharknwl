@@ -37,9 +37,6 @@
 <table align="center">
   <tr>
     <td>
-      <img height=195px src="https://github-readme-stats.vercel.app/api?username=Tusharknwl&theme=shades-of-purple&show_icons=true" />
-    </td>
-    <td>
         <img height=210px src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharknwl&theme=dark&hide_border=false"/>
     </td>
     <td>
